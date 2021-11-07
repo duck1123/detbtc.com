@@ -9,8 +9,8 @@
   United States
 ```
 
-Twitter: https://twitter.com/detbtc
+Twitter: [@detbtc](https://twitter.com/detbtc)
 
-Instagram: https://www.instagram.com/detbtc/
+Instagram: [@detbtc](https://www.instagram.com/detbtc/)
 
-Telegram: https://t.me/joinchat/yGQE6x2CRalmMTIx
+Telegram: [join](https://t.me/joinchat/yGQE6x2CRalmMTIx)
