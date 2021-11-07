@@ -2,6 +2,12 @@
 
 1st Monday of each month
 
+```
+  Hopcat Detroit
+  4265 Woodward Ave
+  Detroit, MI  48201
+  United States
+```
 
 Twitter: https://twitter.com/detbtc
 
