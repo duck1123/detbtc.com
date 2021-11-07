@@ -1,6 +1,6 @@
 # Detroit Bitcoin Meetups
 
-<img src="images/photo_2021-10-11_10-59-55.jpg" />
+<img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 1st Monday of each month
 
