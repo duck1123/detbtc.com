@@ -2,7 +2,9 @@
 
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
-1st Monday of each month
+1st Monday of each month.
+
+Next meetup: Monday, December 6th @ 7pm
 
 ```
   Hopcat Detroit
