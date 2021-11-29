@@ -18,3 +18,6 @@ Twitter: [@detbtc](https://twitter.com/detbtc)
 Instagram: [@detbtc](https://www.instagram.com/detbtc/)
 
 Telegram: [join](https://t.me/joinchat/yGQE6x2CRalmMTIx)
+
+
+Not in the area? Find local meetups [here](https://bitcoin-only.com/meetups).
