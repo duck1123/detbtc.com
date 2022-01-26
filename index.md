@@ -4,7 +4,7 @@
 
 1st Monday of each month.
 
-Next meetup: Monday, January 3rd @ 7pm
+Next meetup: Monday, February 7th @ 7pm
 
 ```
   Hopcat Detroit
