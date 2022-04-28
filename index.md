@@ -23,3 +23,5 @@ Meetup: [join](https://www.meetup.com/detbtc/)
 
 
 Not in the area? Find local meetups [here](https://bitcoin-only.com/meetups).
+
+USA Bitcoin Meetups (Google Doc) https://docs.google.com/spreadsheets/d/1UzyzzI08MJjW3qPniMIJrWlwfGbH_aeUJgzfFa-D4YY/edit#gid=0
