@@ -1,9 +1,18 @@
-| Area                               | link                           |
-|------------------------------------+--------------------------------|
-| Detroit                            | https://t.me/+yGQE6x2CRalmMTIx |
-| Cleveland                          | https://t.me/ClevelandBitcoin  |
-| Midwest Bitcorn                    | https://t.me/MidwestBitcorn    |
-| Jackson Bitcoiners                 |                                |
-| Satoshi Service Center HQ (Toledo) | https://t.me/SatServiceCenter  |
-| Grand Rapids                       | http://t.me/GRBitcoiners       |
-| Florida                            | https://t.me/BTCFLA            |
+| Area                               | link                              |
+|------------------------------------+-----------------------------------|
+| Detroit                            | https://t.me/+yGQE6x2CRalmMTI     |
+| Cleveland                          | https://t.me/ClevelandBitcoin     |
+| Midwest Bitcorn                    | https://t.me/MidwestBitcorn       |
+| Jackson Bitcoiners                 |                                   |
+| Satoshi Service Center HQ (Toledo) | https://t.me/SatServiceCenter     |
+| Grand Rapids                       | http://t.me/GRBitcoiners          |
+| Florida                            | https://t.me/BTCFLA               |
+| Palm Beach Bitcoin                 | https://t.me/PalmBeachBitcoin     |
+| Texas Bitcoin                      | https://t.me/texasbtc             |
+| Austin Bitcoin                     | https://t.me/BitcoinAustin        |
+| Orlando Bitcoin                    | https://t.me/BitcoinBrunchOrlando |
+| Puerto Rico Bitcoin                | https://t.me/btcpuertorico        |
+| Columbus Bitcoin                   | https://t.me/ColumbusBitcoin      |
+| Bitcoin Brunch (Global Network)    | https://t.me/bitcoinbrunchnetwork |
+| Charleston Bitcoin Meetup          | https://t.me/chsbitcoin           |
+| Reggio Emilia (Italy)              | https://t.me/bitcoin_re_meetup    |
