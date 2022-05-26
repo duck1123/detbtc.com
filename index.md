@@ -2,15 +2,13 @@
 
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
-1st Monday of each month.
 
-Next meetup: Monday, May 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/285447889/))
+Next meetup: Thursday, June 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/286144223/))
 
 ```
-  Hopcat Detroit
-  4265 Woodward Ave
-  Detroit, MI  48201
-  United States
+Primanti Bros. Restaurant and Bar Novi
+43335 Crescent Blvd
+Novi, MI
 ```
 
 Twitter: [@detbtc](https://twitter.com/detbtc)
