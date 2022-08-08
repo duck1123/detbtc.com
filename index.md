@@ -3,11 +3,11 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, August 1st @ 7pm ([meetup](https://www.meetup.com/detbtc/events/287091140))
+Next meetup: Thursday, September 1st @ 7pm ([meetup](https://www.meetup.com/detbtc/events/287687096/))
 
 ```
-HopCat
-4265 Woodward Ave · Detroit, MI
+Alchile Mexican Grill & Bar.
+42100 Grand River Ave · Novi, MI
 ```
 
 Twitter: [@detbtc](https://twitter.com/detbtc)
