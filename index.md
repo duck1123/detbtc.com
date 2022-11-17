@@ -14,7 +14,7 @@ Twitter: [@detbtc](https://twitter.com/detbtc)
 
 Instagram: [@detbtc](https://www.instagram.com/detbtc/)
 
-Telegram: [join](https://t.me/joinchat/yGQE6x2CRalmMTIx)
+Telegram: [t.me/detbtc](https://t.me/detbtc)
 
 Meetup: [join](https://www.meetup.com/detbtc/)
 
