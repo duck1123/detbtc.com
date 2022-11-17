@@ -3,7 +3,7 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, November 3rd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/289256209/))
+Next meetup: Thursday, December 1st @ 7pm ([meetup](https://www.meetup.com/detbtc/events/289820182/))
 
 ```
 Alchile Mexican Grill & Bar.
