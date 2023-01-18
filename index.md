@@ -9,6 +9,7 @@ Next meetup: Thursday, January 5th @ 7pm ([meetup](https://www.meetup.com/detbtc
 Alchile Mexican Grill & Bar.
 42100 Grand River Ave · Novi, MI
 ```
+Nostr: [info@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56)
 
 Twitter: [@detbtc](https://twitter.com/detbtc)
 
