@@ -9,7 +9,7 @@ Next meetup: Thursday, February 2nd @ 7pm ([meetup](https://www.meetup.com/detbt
 TruOI
 900 Tower Dr 4th Floor · Troy, MI
 ```
-Nostr: [info@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56)
+Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
 
 Twitter: [@detbtc](https://twitter.com/detbtc)
 
