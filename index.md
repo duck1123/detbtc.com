@@ -5,6 +5,8 @@
 
 Next meetup: Thursday, February 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/291048113/))
 
+<img src="images/photo_2023-01-19_17-26-31.jpg" />
+
 ```
 TruOI
 900 Tower Dr 4th Floor · Troy, MI
