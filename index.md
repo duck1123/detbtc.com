@@ -3,11 +3,11 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, January 5th @ 7pm ([meetup](https://www.meetup.com/detbtc/events/290482175/))
+Next meetup: Thursday, February 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/291048113/))
 
 ```
-Alchile Mexican Grill & Bar.
-42100 Grand River Ave · Novi, MI
+TruOI
+900 Tower Dr 4th Floor · Troy, MI
 ```
 Nostr: [info@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56)
 
