@@ -3,9 +3,7 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, February 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/291048113/))
-
-<img src="images/photo_2023-01-19_17-26-31.jpg" />
+Next meetup: Thursday, March 2nd @ 7pm ([meetup](https://www.meetup.com/detbtc/events/291638222/))
 
 ```
 TruOI
