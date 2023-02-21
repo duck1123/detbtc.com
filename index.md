@@ -11,14 +11,13 @@ TruOI
 ```
 Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
 
-Twitter: [@detbtc](https://twitter.com/detbtc)
-
-Instagram: [@detbtc](https://www.instagram.com/detbtc/)
-
 Telegram: [t.me/detbtc](https://t.me/detbtc)
 
 Meetup: [join](https://www.meetup.com/detbtc/)
 
+Twitter: [@detbtc](https://twitter.com/detbtc)
+
+Instagram: [@detbtc](https://www.instagram.com/detbtc/)
 
 Not in the area? Find local meetups [here](https://bitcoin-only.com/meetups).
 
