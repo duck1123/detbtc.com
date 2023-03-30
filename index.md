@@ -7,8 +7,10 @@ Next meetup: Thursday, April 6th @ 6pm ([meetup](https://www.meetup.com/detbtc/e
 
 ```
 TruOI
-900 Tower Dr 4th Floor · Troy, MI
+900 Tower Dr 4th Floor
+Troy, MI
 ```
+
 Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
 
 Telegram: [t.me/detbtc](https://t.me/detbtc)
