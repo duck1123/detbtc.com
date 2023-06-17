@@ -3,7 +3,7 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, June 1st @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/293717808))
+Next meetup: Thursday, July 6th @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/294247622/))
 
 ```
 TruOI
