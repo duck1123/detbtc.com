@@ -3,12 +3,12 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, Aug 3rd @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/295073200/))
+Next meetup: Thursday, Sept 7th @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/295247687))
 
 ```
-TruOI
-900 Tower Dr 4th Floor
-Troy, MI
+Nikola's
+25225 Telegraph
+Southfield, MI
 ```
 
 Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
