@@ -3,12 +3,11 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, Sept 7th @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/295247687))
+Next meetup: Thursday, Feb 1st @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/298651985/))([Flockstr](https://www.flockstr.com/event/naddr1qqyrgepnxpsnsefjqyxhwumn8ghj7mn0wvhxcmmvqgsxu43ukja8gf9yumh50urcccnf9nvn8lzdxtuzj0jqfus27xfftncrqsqqql9n88elwd))
 
 ```
-Nikola's
-25225 Telegraph
-Southfield, MI
+28345 Beck Rd,
+Wixom, MI 48393
 ```
 
 Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
