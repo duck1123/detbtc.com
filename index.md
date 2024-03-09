@@ -3,7 +3,7 @@
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
 
-Next meetup: Thursday, Feb 1st @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/298651985/))([Flockstr](https://www.flockstr.com/event/naddr1qqyrgepnxpsnsefjqyxhwumn8ghj7mn0wvhxcmmvqgsxu43ukja8gf9yumh50urcccnf9nvn8lzdxtuzj0jqfus27xfftncrqsqqql9n88elwd))
+Next meetup: Thursday, April 4th @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/299676078/))([Flockstr](https://www.flockstr.com/event/naddr1qqyrgwtrvdjnget9qgsxu43ukja8gf9yumh50urcccnf9nvn8lzdxtuzj0jqfus27xfftncrqsqqql9ntg46ye))
 
 ```
 28345 Beck Rd,
