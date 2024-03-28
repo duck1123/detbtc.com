@@ -25,3 +25,5 @@ Instagram: [@detbtc](https://www.instagram.com/detbtc/)
 Not in the area? Find local meetups [here](https://bitcoin-only.com/meetups).
 
 USA Bitcoin Meetups (Google Doc) [here](https://docs.google.com/spreadsheets/d/1UzyzzI08MJjW3qPniMIJrWlwfGbH_aeUJgzfFa-D4YY/edit#gid=0)
+
+<iframe src="https://primal.net/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56" height="1400" width="100%" title="primal"></iframe>
