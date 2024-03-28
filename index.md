@@ -2,13 +2,7 @@
 
 <img src="images/photo_2021-10-11_10-59-55.jpg" width="500" />
 
-
-Next meetup: Thursday, April 4th @ 6:30pm ([meetup](https://www.meetup.com/detbtc/events/299676078/))([Flockstr](https://www.flockstr.com/event/naddr1qqyrgwtrvdjnget9qgsxu43ukja8gf9yumh50urcccnf9nvn8lzdxtuzj0jqfus27xfftncrqsqqql9ntg46ye))
-
-```
-28345 Beck Rd,
-Wixom, MI 48393
-```
+<iframe src="https://www.flockstr.com/calendar/naddr1qqyrgd3sxy6xgwpsqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsygrw2c7tfwn5yjjwdm687puvvf5jekfnl3xn97pf8eqy7g90ry54eupsgqqq0j6qjsqucp" height="1400" width="100%" title="primal"></iframe>
 
 Nostr: [@detbtc.com](https://snort.social/p/npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56) < npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56 >
 
